@@ -1,8 +1,7 @@
 ![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/user-attachments/assets/d627b6ed-700b-4eac-96d0-37d78103c520)
 <h1 align="center">Hi 👋, I'm Harshit agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966](https://github.com/user-attachments/assets/ffef809a-e442-4ee9-8818-98322068668a)
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perafron&label=Profile%20views&color=0e75b6&style=flat" alt="perafron" /> </p>
