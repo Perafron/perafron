@@ -1,7 +1,7 @@
 ![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/user-attachments/assets/d627b6ed-700b-4eac-96d0-37d78103c520)
 <h1 align="center">Hi 👋, I'm Harshit agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perafron&label=Profile%20views&color=0e75b6&style=flat" alt="perafron" /> </p>
 
