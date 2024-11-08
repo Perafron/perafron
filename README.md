@@ -1,3 +1,4 @@
+[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)]
 <h1 align="center">Hi 👋, I'm Harshit agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
