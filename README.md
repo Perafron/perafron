@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Harshitagarwal0345@gmail.com**
 
-- ⚡ Fun fact **"🧑‍💻 Software engineer focused on Pyhton and data science,with a passion for problem-solving and continous learing."**
+- ⚡ Fun fact **"🧑‍💻 Software engineer focused on Python and data science,with a passion for problem-solving and continous learing."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
