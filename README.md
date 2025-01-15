@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine learning, Devops**
 
-- 💬 Ask me about **React, Pyhton**
+- 💬 Ask me about **React, Python**
 
 - 📫 How to reach me **Harshitagarwal0345@gmail.com**
 
